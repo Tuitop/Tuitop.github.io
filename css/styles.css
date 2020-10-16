@@ -1,1 +1,9 @@
-<element style="background= black;">
+<body> {
+  background-color: black;
+}
+<h1> {
+    bolor: white;
+}
+<p> {
+  color: red;
+}
