@@ -20,7 +20,7 @@ p {
   width: 100px;
 }
 ol {
-  class="d"
+  list-style-type: upper-alpha;
 }
 ul {
   list-style-type: square;
