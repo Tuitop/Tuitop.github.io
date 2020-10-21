@@ -19,3 +19,9 @@ div {
   height: 100px;
   width: 100px;
 }
+ol {
+  class="d"
+}
+ul {
+  list-style-type: square;
+}
