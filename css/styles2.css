@@ -1,9 +1,9 @@
 .kokeilu2 {
-  background: grey;
+  background:rbg(204, 255, 204);
 }
 .kokeilu3 {
-  background: blue;
+  background:rbg(224, 224, 224);
 }
 .kokeilu4 {
-  background: purple;
+  background:rgb(255, 153, 204);
 }
