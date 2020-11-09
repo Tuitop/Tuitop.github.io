@@ -19,7 +19,7 @@ p {
   color: black;
   border: solid 1px;
   border-radius: 20px;
-  padding: 0px 1px;
+  padding: 0px 5px;
 }
 ol {
   list-style-type: upper-alpha;
