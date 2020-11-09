@@ -15,12 +15,6 @@ p {
   color: white;
   background: black;
 }
-.uno {
-  border-style: dotted;
-  border-width: 2px;
-  height: 100px;
-  width: 100px;
-}
 ol {
   list-style-type: upper-alpha;
 }
