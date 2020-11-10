@@ -12,7 +12,7 @@ h2 {
 text-decoration: underline
 }
 
-aside {
+#aside {
   width: 30%;
   padding-top: 35px;
   padding-left: 15px;
@@ -24,14 +24,14 @@ aside {
   text-align: center;
 }
 
-.kokeilu2 {
+#article {
   background:rgb(228, 228, 228);
   margin-right: 400px;
 }
-.kokeilu3 {
+#nav {
   background:rgb(128, 128, 128);
 }
-.kokeilu4 {
+#header {
   background:rgb(192, 192, 192);
 }
 footer {
